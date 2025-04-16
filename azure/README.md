@@ -1,4 +1,4 @@
-# ABM_01_Estudos-azure
+# ABM_00_Estudos-azure
 
 Este repositório contém resumos e materiais de estudo sobre **azure** para consulta rápida e compartilhamento.
 
