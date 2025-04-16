@@ -1,9 +1,3 @@
-- Estrutura: 01_Fundamentos
-- Seq: 00
-- Título: HelloWorld
-
----
-
 # 1. "Hello, World" em C#:
 
 ```csharp

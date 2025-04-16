@@ -1,13 +1,5 @@
-- `csharp`
-- Estrutura: 01_Fundamentos
-- Seq: 02
-- Título: Namespace
-
-> csharp\01_Fundamentos\02_Namespace.md
-
----
-
 # Namespaces
+
 Os **namespaces** são usados para organizar e agrupar tipos relacionados em um programa. Eles ajudam a evitar conflitos de nomes e permitem reutilizar tipos com o mesmo nome desde que estejam em namespaces diferentes.
 
 No .NET, os namespaces fazem parte da **Biblioteca de Classes do .NET Framework**, agrupando classes predefinidas para facilitar a reutilização e manutenção do código.

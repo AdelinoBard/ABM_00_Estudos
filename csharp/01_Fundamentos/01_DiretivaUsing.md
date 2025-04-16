@@ -1,13 +1,5 @@
-- `csharp`
-- Estrutura: 01_Fundamentos
-- Seq: 01
-- Título: DiretivaUsing
-
-> csharp\01_Fundamentos\01_DiretivaUsing.md
-
----
-
 # Diretiva `using`
+
 A diretiva `using` no C# é uma funcionalidade essencial para simplificar o uso de classes dentro dos namespaces. Ela permite que um programa acesse classes sem a necessidade de especificar seus namespaces completos repetidamente, tornando o código mais conciso e legível.
 
 ## 1. O que é um Namespace?
