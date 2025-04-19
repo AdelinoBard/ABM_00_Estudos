@@ -27,4 +27,11 @@ Um repositório dedicado a organizar e compartilhar notas de leitura sobre desen
     - **URL**: https://codewithmukesh.com/blog/middlewares-in-aspnet-core/
     - **Atualizado**: 26 de março de 2025
 
+4. [2025.04.19](./20250419.md)
+    - **Título**: Dependency Injection in ASP.NET Core Explained
+    - **Autor**: Mukesh Murugan
+    - **Fonte**: Code With Mukesh
+    - **URL**: https://codewithmukesh.com/blog/dependency-injection-in-aspnet-core-explained/
+    - **Atualizado**: 30 de março de 2025
+
 ---
