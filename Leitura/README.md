@@ -33,5 +33,12 @@ Um repositório dedicado a organizar e compartilhar notas de leitura sobre desen
     - **Fonte**: Code With Mukesh
     - **URL**: https://codewithmukesh.com/blog/dependency-injection-in-aspnet-core-explained/
     - **Atualizado**: 30 de março de 2025
+  
+5. [2025.04.20](./20250420.md)
+    - **Título**: Optimizing memory usage with modern .NET features
+    - **Autor**: Nemanja Mijailovic
+    - **Fonte**: Nemanja Mijailovic's Blog
+    - **URL**: https://mijailovic.net/2025/04/10/memory-optimizations/?utm_source=bonobopress&utm_medium=newsletter&utm_campaign=2040
+    - **Atualizado**: 10 de abril de 2025
 
 ---
