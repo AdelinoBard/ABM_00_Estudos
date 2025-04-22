@@ -41,4 +41,11 @@ Um repositório dedicado a organizar e compartilhar notas de leitura sobre desen
     - **URL**: https://mijailovic.net/2025/04/10/memory-optimizations/?utm_source=bonobopress&utm_medium=newsletter&utm_campaign=2040
     - **Atualizado**: 10 de abril de 2025
 
+5. [2025.04.22](./20250422.md)
+    - Título: Building Your First MCP Server with .NET: A Developer's Guide to Model Context Protocol
+    - Autor: Engincan Veske
+    - Fonte: Engincan Veske's Blog
+    - URL: https://engincanveske.substack.com/p/building-your-first-mcp-server-with
+    - Atualizado: 09 de abril de 2025
+
 ---
