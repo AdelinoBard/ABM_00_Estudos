@@ -16,7 +16,8 @@ Este repositório contém resumos e materiais de estudo para consulta rápida e 
 - [POO](./POO/)
 
   - [POO_Introdução](./POO/POO_01_Introdução.md)
-  - [Dominio](./POO/POO_02_Dominio.md)
+  - [POO_Conceitos](./POO/POO_02_Conceitos.md)
+  - [POO_Dominio](./POO/POO_03_Dominio.md)
 
 - [azure](./azure/)
 
