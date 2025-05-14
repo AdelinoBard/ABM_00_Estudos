@@ -52,6 +52,7 @@ Este repositório contém resumos e materiais de estudo para consulta rápida e 
     - [POO_Atributos](./POO/POO_02_Classes-Objetos/03_Atributos/)
       - [POO_Atributos](./POO/POO_02_Classes-Objetos/03_Atributos/03-Atributos_01.md)
     - [POO_Métodos](./POO/POO_02_Classes-Objetos/04_Métodos/)
+      - [POO_Métodos](./POO/POO_02_Classes-Objetos/04_Métodos/04-Métodos_01.md)
       - TODO
 
 - [azure](./azure/)
