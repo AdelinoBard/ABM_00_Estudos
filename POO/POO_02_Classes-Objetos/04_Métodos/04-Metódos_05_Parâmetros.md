@@ -4,7 +4,7 @@ Os parâmetros são fundamentais em programação, pois permitem que métodos re
 
 ## **Passagem de Parâmetros: Valor vs Referência**
 
-### **1.1 Passagem por Valor (Cópia)**
+### **Passagem por Valor (Cópia)**
 
 - **Como funciona:**  
   O método recebe uma **cópia** do valor original. Alterações dentro do método **não afetam** a variável externa.
