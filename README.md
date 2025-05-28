@@ -53,11 +53,10 @@ Este repositório contém resumos e materiais de estudo para consulta rápida e 
       - [POO_Atributos](./POO/POO_02_Classes-Objetos/03_Atributos/03-Atributos_01.md)
     - [POO_Métodos](./POO/POO_02_Classes-Objetos/04_Métodos/)
       - [POO_Métodos_Conceito](./POO/POO_02_Classes-Objetos/04_Métodos/04-Metódos_01_Conceito.md)
-      - [POO_Métodos_Estrutura](./POO/POO_02_Classes-Objetos/04_Métodos/04-Metódos_02_Estrutura.md)
-      - [POO_Métodos_Tipos](./POO/POO_02_Classes-Objetos/04_Métodos/04-Metódos_03_Tipos.md)
-      - [POO_Métodos_ChamadaExecução](./POO/POO_02_Classes-Objetos/04_Métodos/04-Metódos_04_ChamadaExecução.md)
-      - [POO_Métodos_Parâmetros](./POO/POO_02_Classes-Objetos/04_Métodos/04-Metódos_05_Parâmetros.md)
-      - [POO_Métodos_Encapsulamento](./POO/POO_02_Classes-Objetos/04_Métodos/04-Metódos_06_Encapsulamento.md)
+      - [POO_Métodos_Estrutura](./POO/POO_02_Classes-Objetos/04_Métodos/04-Metódos_02_00_Estrutura.md)
+      - [POO_Métodos_Escopo](./POO/POO_02_Classes-Objetos/04_Métodos/04-Metódos_02_01_Escopo.md)
+      - [POO_Métodos_Retorno](./POO/POO_02_Classes-Objetos/04_Métodos/04-Metódos_02_02_Retorno.md)
+      
     - TODO
 
 - [azure](./azure/)
