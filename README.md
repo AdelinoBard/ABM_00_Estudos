@@ -53,11 +53,20 @@ Este repositório contém resumos e materiais de estudo para consulta rápida e 
       - [POO_Atributos](./POO/POO_02_Classes-Objetos/03_Atributos/03-Atributos_01.md)
     - [POO_Métodos](./POO/POO_02_Classes-Objetos/04_Métodos/)
       - [POO_Métodos_Conceito](./POO/POO_02_Classes-Objetos/04_Métodos/04-Metódos_01_Conceito.md)
-      - [POO_Métodos_Estrutura](./POO/POO_02_Classes-Objetos/04_Métodos/04-Metódos_02_00_Estrutura.md)
-      - [POO_Métodos_Escopo](./POO/POO_02_Classes-Objetos/04_Métodos/04-Metódos_02_01_Escopo.md)
-      - [POO_Métodos_Retorno](./POO/POO_02_Classes-Objetos/04_Métodos/04-Metódos_02_02_Retorno.md)
-      
-    - TODO
+      - [POO_Métodos_Chamada](./POO/POO_02_Classes-Objetos/04_Métodos/04-Metódos_02_00_Chamada.md)
+        - [POO_Métodos_ChamadaRecursiva](./POO/POO_02_Classes-Objetos/04_Métodos/04-Metódos_02_01_ChamadaRecursiva.md)
+      - [POO_Métodos_Estrutura](./POO/POO_02_Classes-Objetos/04_Métodos/04-Metódos_03_Estrutura.md)
+      - [POO_Métodos_Escopo](./POO/POO_02_Classes-Objetos/04_Métodos/04-Metódos_04_Escopo.md)
+      - [POO_Métodos_Retorno](./POO/POO_02_Classes-Objetos/04_Métodos/04-Metódos_05_Retorno.md)
+      - [POO_Métodos_Parâmetros](./POO/POO_02_Classes-Objetos/04_Métodos/04-Metódos_06_Parâmetros_00_.md)
+        - [POO_Métodos_Parâmetros_Nomeados](./POO/POO_02_Classes-Objetos/04_Métodos/04-Metódos_06_Parâmetros_04_Nomeados.md)
+        - [POO_Métodos_Parâmetros_Opcionais](./POO/POO_02_Classes-Objetos/04_Métodos/04-Metódos_06_Parâmetros_05_01_Opcionais.md)
+        - [POO_Métodos_Parâmetros_Variáveis](./POO/POO_02_Classes-Objetos/04_Métodos/04-Metódos_06_Parâmetros_05_02_Variável.md)
+        - [POO_Métodos_Parâmetros_ArgumentosLinhaComando](./POO/POO_02_Classes-Objetos/04_Métodos/04-Metódos_06_Parâmetros_06_ArgumentosLinhaComando.md)
+        - [POO_Métodos_Parâmetros_Tuplas](./POO/POO_02_Classes-Objetos/04_Métodos/04-Metódos_06_Parâmetros_07_Tuplas.md)
+        - [POO_Métodos_Parâmetros_Sobrecarga](./POO/POO_02_Classes-Objetos/04_Métodos/04-Metódos_06_Parâmetros_08_Sobrecarga.md)
+        - [POO_Métodos_Parâmetros_Passagem(ref/out)](./POO/POO_02_Classes-Objetos/04_Métodos/04-Metódos_06_Parâmetros_09_Passagem.md)
+      - [POO_Métodos_Extensão](./POO/POO_02_Classes-Objetos/04_Métodos/04-Metódos_07_Extensão.md)
 
 - [azure](./azure/)
 
