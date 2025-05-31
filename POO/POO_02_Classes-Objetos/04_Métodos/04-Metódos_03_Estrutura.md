@@ -179,3 +179,36 @@ MostrarMensagem(); // Saída: Olá, bem-vindo!
 - **Ideal para métodos simples** – reduz repetição e melhora organização.
 
 ---
+
+## **Chamada Encadeada (Method Chaining)**
+
+Quando métodos retornam objetos, podemos chamar métodos subsequentes na mesma linha.
+
+**Exemplo:**
+
+```csharp
+public class StringBuilder
+{
+    private string _texto;
+
+    public StringBuilder Append(string texto)
+    {
+        _texto += texto;
+        return this; // Retorna o próprio objeto
+    }
+
+    public override string ToString() => _texto;
+}
+
+// Uso com encadeamento:
+var sb = new StringBuilder();
+sb.Append("Hello").Append(" ").Append("World!");
+Console.WriteLine(sb.ToString());
+```
+
+**Vantagens:**
+
+- Código mais limpo e conciso
+- Redução de variáveis temporárias
+
+---
