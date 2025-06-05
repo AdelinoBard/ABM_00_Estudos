@@ -25,17 +25,21 @@ Os padrões de design podem ser agrupados em três grandes categorias:
 - _Singleton_
 - _Factory Method_
 - _Abstract Factory_
+- _..._
 
 **2. Padrões Estruturais:** Tratam da composição de classes e objetos. Exemplos:
 
 - _Adapter_
 - _Decorator_
 - _Composite_
+- _Facade_
+- _..._
 
 **3. Padrões Comportamentais:** Enfatizam a interação entre classes e a coordenação de ações. Exemplos:
 
 - _Observer_
 - _Strategy_
 - _Command_
+- _..._
 
 ---
